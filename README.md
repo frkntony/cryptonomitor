@@ -2,7 +2,7 @@
 
 ### Description
 A ReactJS progressive web app with real-time updates about crypto coins. This app takes advantage of local storage and can be installed on your smartphone.
-
+<a href="https://imgflip.com/gif/2hk1d8"><img src="https://i.imgflip.com/2hk1d8.gif" title="made at imgflip.com"/></a>
 
 ### Tools used
 * [pusher](https://pusher.com/)
@@ -28,7 +28,7 @@ npm start
 ### Installation of mobile app
 * open in your browser [this app](https://cryptonomitor.herokuapp.com/)
 * click on *Add to homescreen*
-
+<a href="https://imgflip.com/gif/2hk14f"><img src="https://i.imgflip.com/2hk14f.gif" title="made at imgflip.com"/></a>
 
 ### Live Demo
 [on heroku](https://cryptonomitor.herokuapp.com/) <-- (free version. let it load for a bit.)
